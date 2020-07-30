@@ -1,6 +1,5 @@
 
 # Use basic p5.play-boilerplate
-Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFiles
+Boiler plate for p5.play : https://github.com/whitehatjr/p5.play-boilerplate.git
 
-
-### Output Link : https://vishnupriya-whitehatjr.github.io/MarioGame/index.html
+### Output Link : https://shikha2889.github.io/Mario_Game/index.html
